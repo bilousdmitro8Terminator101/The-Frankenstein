@@ -77,6 +77,10 @@ Displaying the correct keys to enter BIOS \ UEFI (ASUS, Dell, Lenovo, HP, Acer, 
 Display the correct keys to enter Recovery mode (ASUS, Dell, Lenovo, HP, Acer, Samsung, Toshiba, Sony Vaio, Fujitsu Siemens and others)
 Check support for /fw to enter UEFI
 
+## TRIM (FOR SSD ONLY)
+
+Checking \ Enable \ Disable TRIM function. USE FOR SOLID STATE DRIVE ONLY
+
 ## DISKPART:
 
 Display full information about the selected disk or disk partition
@@ -87,14 +91,14 @@ Work with physical and virtual disks, cleaning, formatting, restoring the operab
 Robocopy - (Robust File Copy) — is a built-in Windows utility for reliable copying and synchronization of files and folders.
 It is much more powerful than standard copying through Explorer and is suitable for working with large amounts of data.
 
-### Key features
+## Key features
 
 [1] = Simple folder copy
 [2] = Mirroring (/MIR)
 [3] = Copy only certain types of files
 [4] = Copy with log to file
 
-### Usage Examples
+## Usage Examples
 
 # Simple Copy
 robocopy C:\Source D:\Backup
