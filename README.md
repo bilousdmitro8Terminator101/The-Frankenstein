@@ -142,8 +142,8 @@ Run it as administrator (The utillity will ofer you to run as administrator (acc
 Use the menu to select the desired action.
 
 ## Notes
-Drivers are exported to D:\MyDrivers or any local drive you have (if D:\ drive is not exist)
-the utility is safe for the system.
-Some features (for example, Mobility Center) are only available on laptops.
-Some features (for example, WinUtil) are requires Internet connection to run.
-BE CAREFULL USING DISKPART ALL DATA MAY BE LOST)
+- Drivers are exported to D:\MyDrivers or any local drive you have (if D:\ drive is not exist)
+- The utility is safe for the system.
+- Some features (for example, Mobility Center) are only available on laptops.
+- Some features (for example, WinUtil) are requires Internet connection to run.
+- BE CAREFULL USING DISKPART ALL DATA MAY BE LOST)
