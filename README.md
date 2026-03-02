@@ -1,4 +1,4 @@
-### The Frankenstein v1.0.1) 2026\03\02
+### The Frankenstein v1.0.1 (2026\03\02)
 
 Copyright by Dmytro Bilous (bilousdmitro8Terminator101)
 
