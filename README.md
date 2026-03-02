@@ -84,7 +84,7 @@ Work with physical and virtual disks, cleaning, formatting, restoring the operab
 
 ## Robocopy — Robust File Copy for Windows
 
-**Robocopy** (Robust File Copy) — is a built-in Windows utility for reliable copying and synchronization of files and folders.
+Robocopy - (Robust File Copy) — is a built-in Windows utility for reliable copying and synchronization of files and folders.
 It is much more powerful than standard copying through Explorer and is suitable for working with large amounts of data.
 
 ### Key features
