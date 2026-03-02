@@ -14,29 +14,29 @@ is a full-fledged console program written in the Windows command line language (
 
 ## Utilities console:
 
-Utilities Console Access to system utilities:
-[1] = System version
-[2] = About PC
-[3] = Mobility Center (For laptop only)
-[4] = Notepad
-[5] = Explorer (My computer folder)
-[6] = Windows Turning components ON / OFF
-[7] = Windows servises
-[8] = Audio devices
-[9] = Sound mixer
-[10] = Device manager
-[11] = System recovery (Control panel)
-[12] = System configuration
-[13] = Regedit (CAUTION! - CHANGING REGISTRY VALUES MAY DAMAGE YOUR SYSTEM OR MAKE IT UNSTABLE)
-[14] = Task manager
-[15] = Power control classic
-[16] = Time and date classic
-[17] = System properties
-[18] = Programs and components
-[19] = Control folders
-[20] = Malicious Software Removal Tool
-[21] = Task Scheduler
-[22] = WinUtil (Internet connection required to run)
+- Utilities Console Access to system utilities:
+- [1] = System version
+- [2] = About PC
+- [3] = Mobility Center (For laptop only)
+- [4] = Notepad
+- [5] = Explorer (My computer folder)
+- [6] = Windows Turning components ON / OFF
+- [7] = Windows servises
+- [8] = Audio devices
+- [9] = Sound mixer
+- [10] = Device manager
+- [11] = System recovery (Control panel)
+- [12] = System configuration
+- [13] = Regedit (CAUTION! - CHANGING REGISTRY VALUES MAY DAMAGE YOUR SYSTEM OR MAKE IT UNSTABLE)
+- [14] = Task manager
+- [15] = Power control classic
+- [16] = Time and date classic
+- [17] = System properties
+- [18] = Programs and components
+- [19] = Control folders
+- [20] = Malicious Software Removal Tool
+- [21] = Task Scheduler
+- [22] = WinUtil (Internet connection required to run)
 
 ## DISM Console:
 
