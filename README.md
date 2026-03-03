@@ -40,34 +40,34 @@ is a full-fledged console program written in the Windows command line language (
 
 ## DISM Console:
 
-[1] = Quick damage check
-[2] = Deep scan of system files
-[3] = Repairing damaged components
-[4] = Enable .NET Framework 3.5 (From mount ISO \ DVD \ USB device)
-[5] = Enable DirectPlay
-[6] = Driver backup
-[7] = Show latest updates
+- [1] = Quick damage check
+- [2] = Deep scan of system files
+- [3] = Repairing damaged components
+- [4] = Enable .NET Framework 3.5 (From mount ISO \ DVD \ USB device)
+- [5] = Enable DirectPlay
+- [6] = Driver backup
+- [7] = Show latest updates
 
 ## Deep Cleaner:
 
-[1] = Clear the update cache
-[2] = Clear Temp files
-[3] = Clean Manager
-[4] = Delete folder "Windows.old" (WARNING! THIS ACTION CANNOT BE UNDONE AND SYSTEM ROLLBACK WILL BE UNAVAILABLE.)
-[5] = Clean Microsoft Store cache
-[6] = Clean DNS cache
+- [1] = Clear the update cache
+- [2] = Clear Temp files
+- [3] = Clean Manager
+- [4] = Delete folder "Windows.old" (WARNING! THIS ACTION CANNOT BE UNDONE AND SYSTEM ROLLBACK WILL BE UNAVAILABLE.)
+- [5] = Clean Microsoft Store cache
+- [6] = Clean DNS cache
 
 ## Shutdown Console:
 
-[1] = Hibernate PC
-[2] = Shutdown PC
-[3] = Reboot PC
-[4] = Special loading options mode
-[5] = Find the BOOT MENU Key
-[6] = Find the BIOS \ UEFI Key
-[7] = Find the RECOVERY Key
-[8] = Reboot to BIOS \ UEFI
-[9] = Reboot to RECOVERY MODE
+- [1] = Hibernate PC
+- [2] = Shutdown PC
+- [3] = Reboot PC
+- [4] = Special loading options mode
+- [5] = Find the BOOT MENU Key
+- [6] = Find the BIOS \ UEFI Key
+- [7] = Find the RECOVERY Key
+- [8] = Reboot to BIOS \ UEFI
+- [9] = Reboot to RECOVERY MODE
 
 ## Boot \ BIOS (UEFI) Menu \ Recovery mode:
 
@@ -93,10 +93,10 @@ It is much more powerful than standard copying through Explorer and is suitable 
 
 ## Key features
 
-[1] = Simple folder copy
-[2] = Mirroring (/MIR)
-[3] = Copy only certain types of files
-[4] = Copy with log to file
+- [1] = Simple folder copy
+- [2] = Mirroring (/MIR)
+- [3] = Copy only certain types of files
+- [4] = Copy with log to file
 
 ## Usage Examples
 
@@ -117,17 +117,17 @@ Test for sound existence (When you reinstall Windows OS you may not have sound, 
 
 ### Additional Windows settings
 
-[1] = Set Force terminating programs automatically in 5 sec (In case if not request)
-[2] = Set Automatically reboot your PC (in case of BSOD)
-[3] = Set Automatically restart Explorer (In case if not request)
-[4] = Set Improving security (Shutdown will be longer)
-[5] = Set Improving compatibility (For old programms and games)
-[6] = Enable Default Photo viewer (As Windows 7)
-[7] = Add \ remove items in Desktop context menu
-[8] = Add \ remove GOD MODE folder (Extended control panel \ analog of classic control panel)
-[9] = Disable avto Winlogon (In case if you have more than 1 local user account)
-[10] = Hibernation ON \ OFF
-[11] = Set High PC performance
+- [1] = Set Force terminating programs automatically in 5 sec (In case if not request)
+- [2] = Set Automatically reboot your PC (in case of BSOD)
+- [3] = Set Automatically restart Explorer (In case if not request)
+- [4] = Set Improving security (Shutdown will be longer)
+- [5] = Set Improving compatibility (For old programms and games)
+- [6] = Enable Default Photo viewer (As Windows 7)
+- [7] = Add \ remove items in Desktop context menu
+- [8] = Add \ remove GOD MODE folder (Extended control panel \ analog of classic control panel)
+- [9] = Disable avto Winlogon (In case if you have more than 1 local user account)
+- [10] = Hibernation ON \ OFF
+- [11] = Set High PC performance
 
 ## Features:
 
