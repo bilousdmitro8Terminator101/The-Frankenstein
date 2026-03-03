@@ -138,7 +138,7 @@ Full compatibility with Windows 10/11.
 
 ## How to run:
 
-Run it as administrator (The utillity will ofer you to run as administrator (accept it) or run it via shortcut or context menu).
+Run it as administrator (The utillity will offer you to run as administrator (accept it) or run it via shortcut or context menu).
 Use the menu to select the desired action.
 
 ## Notes
