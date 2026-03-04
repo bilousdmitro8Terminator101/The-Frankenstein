@@ -10,7 +10,7 @@ No malicious code or suspicious activity was detected during the scan.
 
 ## Description:
 
-is a full-fledged console program written in the Windows command line language (Batch). It runs on top of the CMD kernel and provides the user with a set of system utilities and tools through its own menu. The program is designed for quick access to key Windows functions: diagnostics, cleaning, power management, launching system components, and system recovery.
+The Frankenstein v 1.0.1 is a full-fledged console program written in the Windows command line language (Batch). It runs on top of the CMD kernel and provides the user with a set of system utilities and tools through its own menu. The program is designed for quick access to key Windows functions: diagnostics, cleaning, power management, launching system components, and system recovery.
 
 ## Utilities console:
 
